@@ -4,6 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
+<img src="/images/KubeCon_CloudNativeCon_portraits_161.jpg" width=240 align=right style="margin: 0px 5px">
 Hi, I'm Puja. I'm responsible for Product and Developer Relations at Giant Swarm, where we build a managed cloud native Kubernetes platform. Over the last 16 years I have worked in various startups and software projects; first as a developer later in product management roles. Next to that I'm an external expert advisor to the European Commission and a Network Science researcher working on projects in the fields of IT security, technology startups, and venture capital. In my spare time I coach technology startups at international accelerator programs and am a regular speaker at technology and startup events around the globe.
 
 <div class="social-links">
