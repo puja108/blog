@@ -6,9 +6,14 @@ permalink: /about/
 
 Hi, I'm Puja. I'm responsible for Product and Developer Relations at Giant Swarm, where we build a managed cloud native Kubernetes platform. Over the last 16 years I have worked in various startups and software projects; first as a developer later in product management roles. Next to that I'm an external expert advisor to the European Commission and a Network Science researcher working on projects in the fields of IT security, technology startups, and venture capital. In my spare time I coach technology startups at international accelerator programs and am a regular speaker at technology and startup events around the globe.
 
-## Social
-
-[![Twitter](/assets/minima-social-icons.svg#twitter)](https://twitter.com/puja108)
+<div class="social-links">
+  <ul class="social-media-list">
+    <li><a rel="me" href="https://github.com/puja108" title="puja108"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li>
+    <li><a rel="me" href="https://twitter.com/puja108" title="puja108"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li>
+    <li><a rel="me" href="https://www.facebook.com/puja.abbassi/" title="puja108"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg></a></li>
+    <li><a rel="me" href="https://www.linkedin.com/in/pujaabbassi/" title="puja108"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a></li>
+  </ul>
+</div>
 
 ## Research
 
